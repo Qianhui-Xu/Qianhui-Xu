@@ -3,7 +3,7 @@
 -  I’m currently learning Group Theory, and Quantum Field Theory.
 -  I like physics and philosophy, they are the ways to understand our universe.
 -  And I also like literary like poems, which means romance of life.
--  Reach me: xuqh2022@126.com
+-  Reach me: qianhui001@e.ntu.edu.sg
 -  Welcome to the wikipidea website that I co-write with another physicist Wang Yuzhu, which contains the classical questions in condensed matter physics (access from NTU network is required):
    http://10.97.169.72/wiki/index.php/Classic_Questions_in_Condensed_Matter_Physics
 
