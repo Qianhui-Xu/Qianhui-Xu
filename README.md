@@ -1,4 +1,4 @@
--  Hi, I’m @Qianhui-Xu
+-  Hi, I’m Qianhui Xu
 -  I’m interested in physics, mostly theoretical, but I have a background in studying quantum materials (crystals).
 -  I’m currently learning Group Theory, and Quantum Field Theory (very slowly and intermittently).
 -  I am interested in physics, philosophy, and religions. I think they are human's ways to understand our universe.
